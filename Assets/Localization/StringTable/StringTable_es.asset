@@ -17,7 +17,31 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: ebfdd48bbae990e4db2d36faac3f1991, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 411197693952
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657214595072
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 662449086464
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5036499984384
+    m_Localized: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5089272717312
+    m_Localized: Ingles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531759206400
+    m_Localized: Atras
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

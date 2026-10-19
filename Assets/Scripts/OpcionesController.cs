@@ -1,8 +1,34 @@
+using System;
 using UnityEngine;
 
 public class OpcionesController : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    [SerializeField] RectTransform panelMenu;
+
+
+    public void MostrarOpciones()
+    {
+        panelMenu.gameObject.SetActive(true);
+    }
+
+    public void QuitarOpciones()
+    {
+        panelMenu.gameObject.SetActive(false);
+    }
+
+
+    public void AplicarEspañol()
+    {
+       
+    }
+    public void AplicarIngles()
+    {
+
+    }
+
+
+
     void Start()
     {
         

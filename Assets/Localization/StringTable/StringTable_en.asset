@@ -17,7 +17,31 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: ebfdd48bbae990e4db2d36faac3f1991, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 411197693952
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657214595072
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 662449086464
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5036499984384
+    m_Localized: Spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5089272717312
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531759206400
+    m_Localized: back
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

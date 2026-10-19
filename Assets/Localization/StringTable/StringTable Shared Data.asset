@@ -13,8 +13,32 @@ MonoBehaviour:
   m_Name: StringTable Shared Data
   m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
   m_TableCollectionName: StringTable
-  m_TableCollectionNameGuidString: 00000000000000000000000000000000
-  m_Entries: []
+  m_TableCollectionNameGuidString: ebfdd48bbae990e4db2d36faac3f1991
+  m_Entries:
+  - m_Id: 411197693952
+    m_Key: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657214595072
+    m_Key: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 662449086464
+    m_Key: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5036499984384
+    m_Key: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5089272717312
+    m_Key: Ingles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531759206400
+    m_Key: Atras
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
